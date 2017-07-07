@@ -1,6 +1,6 @@
 <?php
 
-namespace PiotrKwiecinski\PayPalFix\Model\Api;
+namespace PiotrKwiecinski\PaypalFix\Model\Api;
 
 use Magento\Paypal\Model\Api\ProcessableException as BaseProcessableException;
 

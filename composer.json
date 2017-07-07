@@ -3,7 +3,7 @@
     "description": "Backport of can't place order bug in magento",
     "type": "magento2-module",
     "license": "OSL-3.0",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "authors": [
         {
             "name": "Piotr Kwiecinski",
@@ -18,7 +18,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "PiotrKwiecinski\\PayPalFix\\": ""
+            "PiotrKwiecinski\\PaypalFix\\": ""
         }
     },
     "repositories": [
