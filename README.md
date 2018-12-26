@@ -4,7 +4,7 @@ Bugfix for PayPal can't place order fix.
 Installation via composer:
 
 ```
-composer require "piotrkwiecinski/magento2-paypal-cant-place-order: 0.1.0"
+composer require "piotrkwiecinski/magento2-paypal-cant-place-order: 0.1.2"
 ```
 
 Run from Magento 2 root directory:
